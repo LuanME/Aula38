@@ -1,5 +1,5 @@
 # Aula38
 
-- [hugogdiniz](https://github.com/Hugogdiniz)
-- [cassiofreitas](https://github.com/cassiofreitas)
+- [Hugo Diniz](https://github.com/Hugogdiniz)
+- [Cassio Freitas](https://github.com/cassiofreitas)
 - [Luan Victor](https://github.com/LuanME/)
